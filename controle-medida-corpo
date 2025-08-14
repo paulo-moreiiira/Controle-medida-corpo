@@ -1,0 +1,8 @@
+> Uma aplicação para registrar e acompanhar suas medidas corporais, ajudando no monitoramento de progresso em dietas e treinos
+
+ Tecnologias Utilizadas
+
+- **Frontend:** React + TailwindCSS
+- **Backend:** Node.js + Express
+- **Banco de Dados:** MongoDB
+- **Gráficos:** Chart.js
